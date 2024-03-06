@@ -26,7 +26,7 @@ const circleFloat = () => {
 
  // Update the animation with random values
  function updateAnimation() {
-    const translateY = random(50, 1000); // Random value for translateY
+    const translateY = random(50, 400); // Random value for translateY
     const translateX = random(50, 1500); // Random value for translateX
     const duration = random(200, 500); // Random value for duration in seconds
 
